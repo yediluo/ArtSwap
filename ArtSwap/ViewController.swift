@@ -9,7 +9,7 @@ import UIKit
 import SceneKit
 import ARKit
 import Foundation
-
+// additional comments for commit
 class ViewController: UIViewController {
     @IBOutlet var sceneView: ARSCNView!
     @IBOutlet weak var numberOfImageLabel: UILabel!
